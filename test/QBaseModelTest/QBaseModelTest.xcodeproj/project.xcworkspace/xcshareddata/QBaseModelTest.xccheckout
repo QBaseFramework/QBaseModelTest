@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>28B218CC-A203-48F7-B409-EF43576DC8C2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>QBaseModelTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1629594C-4056-4844-9F6E-0CC12C3449A9</key>
+		<string>ssh://github.com/QBaseFramework/QBaseModel.git</string>
+		<key>EB12BF5C-DB6F-4B03-8CC3-09902D5D7C8B</key>
+		<string>ssh://github.com/QBaseFramework/QBaseModelTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>test/QBaseModelTest/QBaseModelTest.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1629594C-4056-4844-9F6E-0CC12C3449A9</key>
+		<string>../../../../QBaseModel</string>
+		<key>EB12BF5C-DB6F-4B03-8CC3-09902D5D7C8B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/QBaseFramework/QBaseModelTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EB12BF5C-DB6F-4B03-8CC3-09902D5D7C8B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1629594C-4056-4844-9F6E-0CC12C3449A9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QBaseModel</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EB12BF5C-DB6F-4B03-8CC3-09902D5D7C8B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>QBaseModelTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>

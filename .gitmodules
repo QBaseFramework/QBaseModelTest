@@ -1,0 +1,3 @@
+[submodule "QBaseModel"]
+	path = QBaseModel
+	url = git@github.com:QBaseFramework/QBaseModel.git
